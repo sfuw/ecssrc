@@ -63,11 +63,7 @@ const HomePage = () => (
   </Theme2016>
 );
 
-const IndexPage = () => {
-  const auth = AuthenticationStore.useContainer();
-  if (auth.isAuthenticated) return <Navigate to="/home" replace />;
-  return <Navigate to="/login" replace />;
-};
+const IndexPage = () => <Navigate to="/home" replace />;
 
 const AppShell = () => (
   <AuthenticationStore.Provider>
