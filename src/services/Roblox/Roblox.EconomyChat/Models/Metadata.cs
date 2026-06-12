@@ -1,4 +1,4 @@
-﻿namespace Roblox.EconomyChat.Models;
+namespace Roblox.EconomyChat.Models;
 
 public class Metadata
 {

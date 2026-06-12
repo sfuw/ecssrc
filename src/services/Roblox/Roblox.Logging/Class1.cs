@@ -1,4 +1,4 @@
-﻿namespace Roblox.Logging;
+namespace Roblox.Logging;
 
 public enum LogGroup
 {

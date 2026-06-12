@@ -1,4 +1,4 @@
-﻿// ReSharper disable InconsistentNaming
+// ReSharper disable InconsistentNaming
 #pragma warning disable CS8618
 namespace Roblox;
 

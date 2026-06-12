@@ -1,4 +1,4 @@
-﻿namespace Roblox.AbuseDetection;
+namespace Roblox.AbuseDetection;
 
 public class Class1
 {

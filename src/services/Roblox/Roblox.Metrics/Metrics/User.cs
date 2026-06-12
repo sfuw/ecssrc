@@ -1,4 +1,4 @@
-﻿using InfluxDB.Client.Api.Domain;
+using InfluxDB.Client.Api.Domain;
 using InfluxDB.Client.Writes;
 using Roblox.Logging;
 
